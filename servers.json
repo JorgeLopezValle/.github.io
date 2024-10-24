@@ -45,7 +45,7 @@
             "address": "https://ani.owoellen.rocks"
         },
         {
-            "name": "jorlonet",   //doesn't really matter unless you're sharing this server list with someone else
+            "name": "jorlonet",
             "address": "http://192.168.1.150:6969"
         }
     ]
